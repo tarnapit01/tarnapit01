@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am 3rd Computer Science student and I'm seeking for mobile developer internship or software engineer internship to develop my skills and contribute significantly to a dynamic team.
+I am graduate Computer Science student and I'm seeking for placese to develop my skills and contribute significantly to a dynamic team.
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [tarnapit@gmail.com](mailto:tarnapit@gmail.com)
