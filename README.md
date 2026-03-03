@@ -8,7 +8,7 @@ I am 3rd Computer Science student and I'm seeking for mobile developer internshi
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [tarnapit@gmail.com](mailto:tarnapit@gmail.com)
-* 🧠  I'm learning I am learning a Flutter and Firebase
+* 🧠  I'm learning I am learning a Java and Spring Boot
 
 ### Skills
 
